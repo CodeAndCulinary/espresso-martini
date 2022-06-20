@@ -1,0 +1,55 @@
+{
+    "tags": "Espresso martini recipe - CodeAndCulinary",
+    "description": "Espresso martini recipe. A version controlled recipe!",
+    "sections": [
+        {
+            "sectionContent": [
+                {"type": "header",
+                    "content": "Espresso martini"
+                },
+                {"type": "text",
+                    "content": "An espresso martini is all about balance between bitter and sweet. And of course the delicious creamy foam on top!"
+                },
+                {"type": "image",
+                    "content": "/resources/martini.jpg",
+                    "alt": "Espresso martini",
+                    "height": 2748,
+                    "width": 2268
+                }
+            ]},
+        {
+            "sectionContent": [
+                {"type": "subheader",
+                    "content": "Instructions"
+                },
+                {"type": "list",
+                    "title": "Ingredients",
+                    "content": [
+                        "ml vodka",
+                        "ml coffee liqueur", 
+                        "ml vodka", 
+                        "2.5ml angostura bitters", 
+                        "a pinch of sugar", 
+                        "45ml espresso", 
+                        "Ice"
+                    ]
+                },
+                {"type": "list",
+                    "title": "Instructions:",
+                    "content": [
+                        "Add everything in a cocktail mixer (hot espresso last)",
+                        "Shake until very cold", 
+                        "Strain out all the ice", 
+                        "Shake multiple times during the pouring process to get a better foam"
+                    ]
+                },
+                {"type": "list",
+                    "title": "Tips for better head retention",
+                    "content": [
+                        "Chill your glasses in cold water before pouring", 
+                        "Ensure the cleanliness of the glass"
+                    ]
+                }
+            ]}
+    ]
+}
